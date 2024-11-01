@@ -1,2 +1,2 @@
-# expressoes_regulares
-Testes com Expressões Regulares em Javascript - NodeJS
+# App Regular Expressions
+Apresenta algumas "expressoes regulares" que podem ser utilizadas para criar validações para dados comuns em aplicações do dia a dia.
